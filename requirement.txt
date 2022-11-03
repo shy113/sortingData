@@ -1,0 +1,7 @@
+Comparable==1.0
+et-xmlfile==1.1.0
+numpy==1.23.3
+openpyxl==3.0.10
+xlrd==1.2.0
+xlutils==2.0.0
+xlwt==1.2.0
